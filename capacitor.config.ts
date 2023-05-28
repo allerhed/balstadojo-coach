@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.allerhed.balstadojo.coach',
   appName: 'balstadojo-coach',
   webDir: 'www',
   server: {
